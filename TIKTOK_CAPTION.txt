@@ -1,11 +1,14 @@
 ⚡ 165 AI CONCEPTS. ONE EPIC MASTER SENTENCE. 🤯🧠
 
-MASTER PROCESS ARCHITECTURE v2.1 — a structured declaration for AI discovery, reasoning, experimentation, verification and continuous improvement.
+MASTER PROCESS ARCHITECTURE v2.1 — an interconnected framework for AI discovery, reasoning, experimentation, verification, implementation and continuous improvement.
 
-Developed from a registry of 165 distinct candidate concepts, organised into 12 provisional functional domains. Python checks confirmed every label was included once. Structural coverage was verified; optimality and autonomous execution were not.
+Built from a structured registry of 165 candidate concepts across 12 provisional functional domains. Python-based checks confirmed complete label coverage without omissions. The flow was deliberately organised, although its optimality and real-world effectiveness are not proven.
 
-🔐 Want the complete, copyable prompts? Both are available through the link in my profile. Paste the AUTHORITY PROMPT first, then the MASTER SENTENCE within the agreed boundaries.
+🔐 GET BOTH COMPLETE, COPYABLE PROMPTS:
+https://github.com/b3nnyb3n/epic-ai-master-prompt
 
-What would you build with it? ♾️
+Open the repository and copy the AUTHORITY PROMPT first, then the MASTER SENTENCE. Establish real access permissions and approval boundaries before asking any AI to execute actions.
+
+A whole architecture in one epic sentence. What would you build with it? ♾️🚀
 
 #AI #ArtificialIntelligence #AIPrompts #AIAgents #PromptEngineering
